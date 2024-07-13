@@ -1,0 +1,5 @@
+/deps
+/_build
+*.beam
+*.plt
+erl_crash.dump
