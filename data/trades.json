@@ -1,0 +1,137 @@
+[
+  {
+    "id": "live-1",
+    "symbol": "AAPL",
+    "price": 174.12,
+    "quantity": 120,
+    "timestamp": "2024-01-10T09:30:00Z",
+    "venue": "NYSE",
+    "side": "buy"
+  },
+  {
+    "id": "live-2",
+    "symbol": "MSFT",
+    "price": 318.55,
+    "quantity": 85,
+    "timestamp": "2024-01-10T09:30:05Z",
+    "venue": "NASDAQ",
+    "side": "sell"
+  },
+  {
+    "id": "live-3",
+    "symbol": "TSLA",
+    "price": 243.9,
+    "quantity": 2500,
+    "timestamp": "2024-01-10T09:30:10Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  },
+  {
+    "id": "live-4",
+    "symbol": "AMZN",
+    "price": 142.33,
+    "quantity": 1500,
+    "timestamp": "2024-01-10T09:30:15Z",
+    "venue": "NASDAQ",
+    "side": "sell"
+  },
+  {
+    "id": "live-5",
+    "symbol": "NVDA",
+    "price": 910.25,
+    "quantity": 900,
+    "timestamp": "2024-01-10T09:30:20Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  },
+  {
+    "id": "live-6",
+    "symbol": "XYZ",
+    "price": 19.5,
+    "quantity": 25,
+    "timestamp": "2024-01-10T09:30:25Z",
+    "venue": "NYSE",
+    "side": "sell"
+  },
+  {
+    "id": "live-7",
+    "symbol": "AAPL",
+    "price": 174.4,
+    "quantity": 20000,
+    "timestamp": "2024-01-10T09:30:30Z",
+    "venue": "NYSE",
+    "side": "buy"
+  },
+  {
+    "id": "live-8",
+    "symbol": "MSFT",
+    "price": 320.11,
+    "quantity": 10,
+    "timestamp": "2024-01-10T09:30:35Z",
+    "venue": "NASDAQ",
+    "side": "sell"
+  },
+  {
+    "id": "live-9",
+    "symbol": "TSLA",
+    "price": 240.8,
+    "quantity": 7500,
+    "timestamp": "2024-01-10T09:30:40Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  },
+  {
+    "id": "live-10",
+    "symbol": "NVDA",
+    "price": 899.0,
+    "quantity": 1100,
+    "timestamp": "2024-01-10T09:30:45Z",
+    "venue": "NASDAQ",
+    "side": "sell"
+  },
+  {
+    "id": "live-11",
+    "symbol": "AMZN",
+    "price": 141.05,
+    "quantity": 4500,
+    "timestamp": "2024-01-10T09:30:50Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  },
+  {
+    "id": "live-12",
+    "symbol": "AAPL",
+    "price": 173.9,
+    "quantity": 180,
+    "timestamp": "2024-01-10T09:30:55Z",
+    "venue": "NYSE",
+    "side": "sell"
+  },
+  {
+    "id": "live-13",
+    "symbol": "MSFT",
+    "price": 319.7,
+    "quantity": 70,
+    "timestamp": "2024-01-10T09:31:00Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  },
+  {
+    "id": "live-14",
+    "symbol": "TSLA",
+    "price": 247.2,
+    "quantity": 30,
+    "timestamp": "2024-01-10T09:31:05Z",
+    "venue": "NASDAQ",
+    "side": "sell"
+  },
+  {
+    "id": "live-15",
+    "symbol": "NVDA",
+    "price": 920.5,
+    "quantity": 60,
+    "timestamp": "2024-01-10T09:31:10Z",
+    "venue": "NASDAQ",
+    "side": "buy"
+  }
+]

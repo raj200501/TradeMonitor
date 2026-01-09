@@ -6,7 +6,7 @@ defmodule TradeMonitor.Application do
       {TradeMonitor.Supervisor, []}
     ]
 
-    opts = [strategy: :one_for_one, name: TradeMonitor.Supervisor]
+    opts = [strategy: :one_for_one, name: TradeMonitor.ApplicationSupervisor]
     Supervisor.start_link(children, opts)
   end
 end
