@@ -7,8 +7,9 @@ defmodule TradeMonitor.Supervisor do
 
   def init(:ok) do
     children = [
-      {TradeMonitor.TradeHandler, []},
-      {TradeMonitor.TradeAnalyzer, []}
+      {TradeMonitor.TradeStore, []},
+      {TradeMonitor.TradeAnalyzer, []},
+      {TradeMonitor.TradeHandler, []}
     ]
 
     Supervisor.init(children, strategy: :one_for_one)

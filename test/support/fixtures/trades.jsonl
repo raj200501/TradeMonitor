@@ -1,0 +1,3 @@
+{"id":"l1","symbol":"AAPL","price":150.0,"quantity":12,"timestamp":"2024-01-01T11:00:00Z","venue":"NYSE","side":"buy"}
+{"id":"l2","symbol":"MSFT","price":312.0,"quantity":200,"timestamp":"2024-01-01T11:01:00Z","venue":"NASDAQ","side":"sell"}
+{"id":"l3","symbol":"BAD","price":99.0,"quantity":5,"timestamp":"2024-01-01T11:02:00Z","venue":"NYSE","side":"buy"}
